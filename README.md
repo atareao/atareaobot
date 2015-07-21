@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # telebot
 Telegram Bot starter kit. Very easy to install with Google App Engine.
 
@@ -92,3 +93,6 @@ Instructions
 
 To customize the bot, edit the `main.py` starting from the `CUSTOMIZE FROM HERE` line. It is simple if-else statements. The starter kit calls simsimi.com to generate replies.
 
+=======
+# atareaobot
+>>>>>>> 84c6f4250e79ed9eefdb640a9e03df01edc772ba
